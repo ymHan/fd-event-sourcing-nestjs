@@ -1,6 +1,6 @@
 {
   "name": "fd-event-sourcing-nestjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Event Sourcing based on MongoDB for NestJS",
   "author": "Ryan Han <onyxsard@gmail.com>",
   "url": "https://github.com/ymHan/fd-event-sourcing-nestjs#readme",
